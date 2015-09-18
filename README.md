@@ -1,5 +1,6 @@
 # Sequence-graphClustering
 To run this jar file, Java 1.7 should be used.
+
 Usage:
 java -jar sequenceGraph-projects-1.0-jar-with-dependencies.jar input_seq.fas input_vector.csv output1.txt output2.txt 
 output3.txt output_graph.gml
